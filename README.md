@@ -32,7 +32,7 @@ Edit
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/sanghavai/spacex-clone.git
+   git clone https://github.com/sanghavai/SpaceX-clone-website.git
 Open the project folder.
 
 Double-click on index.html or open it in your browser.
