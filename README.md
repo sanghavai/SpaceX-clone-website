@@ -16,17 +16,14 @@ This is a simple front-end clone of the SpaceX website built using only HTML, CS
 - JavaScript (Vanilla)
 
 ## 📁 Folder Structure
-
+```
 spacex-clone/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
-bash
-Copy
-Edit
+```
 
 ## 🚀 How to Run the Project
 
